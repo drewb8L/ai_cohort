@@ -1,3 +1,3 @@
-openai==1.52.0
-pandas==2.0.3
+freeplay==0.3.7
+openai==1.52.1
 python-dotenv==1.0.1

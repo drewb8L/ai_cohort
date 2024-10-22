@@ -1,0 +1,10 @@
+# Ignore virtual environments
+venv/
+.env
+.idea/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+.DS_Store
